@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+firebase-admin
+yfinance
+cachetools
+python-multipart   # if you handle form data uploads (optional)
